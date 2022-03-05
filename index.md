@@ -1,8 +1,8 @@
 
 [![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-orange.svg?style=for-the-badge)](mailto:asantiago@arsari.com "I can help you!")
-[![My Blog](https://img.shields.io/badge/Blog-arsari.us-green.svg?style=for-the-badge)](https://www.arsari.us/blog "Posts about coding")
-![GitHub last commit](https://img.shields.io/github/last-commit/arsari/arsari-snhu?logo=github&style=for-the-badge)
-[![GitHub license](https://img.shields.io/github/license/arsari/arsari-snhu?logo=github&style=for-the-badge)](LICENSE "MIT License")
+[![My Blog](https://img.shields.io/badge/Blog-arsari.us-lightblue.svg?style=for-the-badge)](https://www.arsari.us/blog "Posts about coding")
+![GitHub last commit](https://img.shields.io/github/last-commit/arsari/ePortfolio?logo=github&style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/arsari/ePortfolio?logo=github&style=for-the-badge)](LICENSE "MIT License")
 
 ## Welcome
 
