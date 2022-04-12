@@ -1,0 +1,28 @@
+Details on lions
+Details on tigers
+Details on bears
+Details on giraffes
+
+Animal - Lion
+Name: Leo
+Age: 5
+*****Health concerns: Cut on left front paw
+Feeding schedule: Twice daily
+
+Animal - Tiger
+Name: Maj
+Age: 15
+Health concerns: None
+Feeding schedule: 3x daily
+
+Animal - Bear
+Name: Baloo
+Age: 1
+Health concerns: None
+*****Feeding schedule: None on record
+
+Animal - Giraffe
+Name: Spots
+Age: 12
+Health concerns: None
+Feeding schedule: Grazing

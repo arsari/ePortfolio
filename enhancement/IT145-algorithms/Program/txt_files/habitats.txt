@@ -1,0 +1,18 @@
+Details on penguin habitat
+Details on bird house
+Details on aquarium
+
+Habitat - Penguin
+Temperature: Freezing
+*****Food source: Fish in water running low
+Cleanliness: Passed
+
+Habitat - Bird
+Temperature: Moderate
+Food source: Natural from environment
+Cleanliness: Passed
+
+Habitat - Aquarium
+Temperature: Varies with output temperature
+Food source: Added daily
+*****Cleanliness: Needs cleaning from algae
