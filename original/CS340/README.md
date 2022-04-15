@@ -10,7 +10,7 @@
 
 ## Overview
 
-> *Note: This is the original repository of the artifact for SNHU CS340 Client/Server Development 21EW3 computer science course. For the enhancement repository and fully operational mobile application visit the [ePortfolio - Databases Category](https://arsari.github.io/ePortfolio "Arturo Santiago-Rivera - ePortfolio")*
+> *Note: This is the original repository of the artifact for SNHU CS340 Client/Server Development 21EW3 computer science course. For the enhancement repository and fully operational mobile application visit the [ePortfolio - Databases Category](https://arsari.github.io/ePortfolio/#databases "Arturo Santiago-Rivera - ePortfolio Databases Category")*
 
 A web application that work with existing database from animal shelters to identify and categorize available dogs to train for different types of rescue, such as water rescue, mountain or wilderness rescue, locating humans after a disaster, or finding a specific human by tracking their scent. The application helps to interact with and visualize individual dog profiles to train from a MongoDB database.
 

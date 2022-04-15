@@ -37,7 +37,9 @@ There's much information on how a mobile application design process should be. U
 
 ## Reflection
 
+With the selected artifact of the CS360 Mobile Architecture and Programming course for the software design and engineering category, I demonstrated my ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value based on industry-specific goals. The artifact involved an entire software design and engineering process consisting of design considerations of user experience and user interaction with different screens and actions that the application includes. Ensure an intuitive use of the application and its features through industry-standard icons and symbols and a relational database to store the data created, read, updated, and deleted by users through the operation and use of the application.
 
+I designed and evaluated computing solutions that can solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices considering the relationship and functionality of the algorithms and data structure between the different classes and methods, and the structure of their layouts and source code. I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy. I enhanced the security of data and resources by implementing engineering practices and techniques for validating input data architecture designed with a security mindset and default denial. 
 
 ## Screenshots
 

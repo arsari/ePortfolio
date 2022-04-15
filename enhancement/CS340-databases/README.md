@@ -10,7 +10,7 @@
 
 ## Overview
 
-A web application that works with existing databases from animal shelters to identify and categorize available dogs to train for different types of rescue, such as water rescue, mountain or wilderness rescue, locating humans after a disaster, or finding a specific human by tracking their scent. The application helps interact with and visualize individual dog profiles to train from a MongoDB database.
+I have to design and develop a web application that works with existing databases from animal shelters to identify and categorize available dogs to train for different types of rescue, such as water rescue, mountain or wilderness rescue, locating humans after a disaster, or finding a specific human by tracking their scent. The application helps interact with and visualize individual dog profiles to train from a MongoDB database.
 
 Through a user-friendly, intuitive client-facing web application dashboard, the user reduces errors and training time. The software design pattern used for this multi-tier application is the Model View Controller (MVC). Additionally, a RESTful protocol extends the HTTP protocol to give an application programming interface (API).
 
@@ -29,7 +29,11 @@ This web application demonstrates our competencies to apply database systems con
 
 ## Reflection
 
+CS340 Client/Server Development course artifact was selected for the databases category. In this artifact, I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in computer science by designing and developing a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns.
 
+I demonstrated my ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals through a programmatic data structure, where the stored variable values can be used efficiently in different functions and callbacks through the web application. With this designed approach, I evaluated computing solutions that solve a problem using algorithmic principles and computer science practices and standards appropriate to the web application while managing the trade-offs involved in design choices.
+
+These artifact enhancements were approached with a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced data security and resources by implementing engineering practices for validating input data and architect and design with default denial.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ## Overview
 
-> *Note: This is the original repository of the partially complete artifact for SNHU CS360 Mobile Architect & Programming 21EW6 computer science course. For the enhancement repository and fully operational mobile application visit the [ePortfolio - Software Design and Engineering](https://arsari.github.io/ePortfolio "Arturo Santiago-Rivera - ePortfolio")*
+> *Note: This is the original repository of the partially complete artifact for SNHU CS360 Mobile Architect & Programming 21EW6 computer science course. For the enhancement repository and fully operational mobile application visit the [ePortfolio - Software Design and Engineering](https://arsari.github.io/ePortfolio/#softwaredesign "Arturo Santiago-Rivera - ePortfolio Software Design and Engineering Category")*
 
 As a team member of Mobile2App company, we have been hired to assist in developing a mobile application to track items in a warehouse, Inventory App (Option 1). The mobile application project will go through different steps, from planning to design to development, to be ready for launch in the following weeks.
 

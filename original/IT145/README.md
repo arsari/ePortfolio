@@ -1,4 +1,4 @@
-# Zoo Monitor System Program
+# Zoo Monitoring System Program
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-> *Note: This is the original repository of artifact for SNHU IT145 Foundation in Application Development 18EW5 computer science course. For the enhancement repository and fully operational mobile application visit the [ePortfolio - Algorithms and Data Structure](https://arsari.github.io/ePortfolio "Arturo Santiago-Rivera - ePortfolio")*
+> *Note: This is the original repository of artifact for SNHU IT145 Foundation in Application Development 18EW5 computer science course. For the enhancement repository and fully operational mobile application visit the [ePortfolio - Algorithms and Data Structure](https://arsari.github.io/ePortfolio/#algorithms "Arturo Santiago-Rivera - ePortfolio Algorithms and Data Structures Category")*
 
 Managing a Zoo’s computer infrastructure includes two key components: controlling the access to system data and monitoring the animal/habitat activities in exhibits. As a duty of the role of managing the computer infrastructure, we must develop a working program and detailed documentation describing the development process for the authentication and authorization of the people to gain access to data in the computer systems.
 

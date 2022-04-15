@@ -12,7 +12,7 @@
 
 Managing a Zoo’s computer infrastructure includes two key components: controlling the access to system data and monitoring the animal/habitat activities in exhibits. As a duty of the role of managing the computer infrastructure, I have to develop a working program and documentation describing the development process for the authentication and authorization of the people to gain access to data in the computer systems. Them, I extended the program and documentation to monitor the activities of the animals in the care of the zookeeper and monitor their living habitats.
 
-> [Program Algorithm](IT145-M7-1_Algorithm.pdf "Program Algorithm")
+> [Program Algorithm](IT145-M7-1_Algorithms.pdf "Program Algorithm")
 
 The program authentication and authorization part was designed and developed in JAVA language back in 2018. Now we have revised the code and libraries to compiled it using JAVA-JDK 17. The program is best run in the computer terminal (macOS) or command prompt/PowerShell (Windows). I wanted to show different screens according to the menu options, clear the screen for each option, and not show everything on one screen. For this purpose, I use a code block that determines the OS in which the program is executed.
 
@@ -22,17 +22,19 @@ Significant errors can come from splitting the code into methods and classes and
 
 Working with file streaming has been extremely exciting, making me think about the program's enhancements with attention to detail. I accomplished all my improvement for the program presentation and simplified the code classes and methods. I produce a working program beyond an input/output exercise required to research things I have done in other languages, which can be compiled on multiple operating systems like Windows and macOS.
 
-### Program Execution
+## Reflection
+
+The artifact of the IT145 Foundation in Application Development course, selected for the algorithms and data structure category, showcases my design approach and evaluation of computer solutions that solve a given problem using algorithmic principles and computer science practices and standards. I demonstrated my understanding of a program algorithm that manages the trade-offs involved in the design choices of a system composed of an authentication and authorization module and a monitoring system module with various features and functionalities. I showcase engineering considerations of relationship and functionality between the different classes and methods by using arguments, parameters, and variables in scope that demonstrate my ability to use well-founded and innovative techniques, skills, and tools of computing practices to implement computer solutions that deliver value and accomplish industry-specific goals.
+
+These artifact enhancements were approached with a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced data security and resources by implementing engineering practices for validating input data and architect and design with default denial. I worked with a simple linear data structure of string array to implement all the methods in the program classes to design and evaluate computing solutions with algorithmic principles and computer science practices and standards appropriate to the data structure implemented while managing the trade-offs involved in the design choices.
+
+## Program Execution
 
 To compile and run the program, in the computer terminal, `cd` to the directory where the program files and directory are located and execute the following commands:
 
 `javac -cp ./org; classes/*.java ZooMonitorSystem.java`
 
 `java ZooMonitorSystem`
-
-## Reflection
-
-
 
 ## Screenshots
 
