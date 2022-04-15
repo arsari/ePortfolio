@@ -49,7 +49,7 @@ I learn the importance of the Software Development Lifecycle and how to apply pr
 Through the program, I increased my capacity to learn new skills in a short time. Bring solutions to problems with intellectual humility and a leadership attitude to excel in computer science based on hard skills and abilities acknowledged from exercising computer and technology skills, data analysis, software development, and technical writing, demonstrated and exemplified in the artifacts accompanying this ePortfolio. All those skills and abilities make me an excellent software engineer prospect focused on developing algorithms that computers can understand but primarily that humans can understand.
 
 <div style="text-align: right;">
-    <a href="#top">
+    <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
     </a>
 </div>
@@ -72,7 +72,7 @@ CS360 Mobile Architecture and Programming and CS330 Computational Graphics and V
 The courses artifacts chosen for the code review and the key categories of software design and engineering, algorithms and data structure, and databases, represent three different projects that allow me to demonstrate what I've learned throughout the program. I believe the enhancements made to these three projects represent my learning and display my competency in the program.
 
 <div style="text-align: right;">
-    <a href="#top">
+    <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
@@ -86,7 +86,7 @@ I contend that my ePortfolio demonstrated my abilities to use well-founded and i
 I look forward to tasks where I can learn and grow. I am driven to complete work, no matter how difficult. If help is needed, I do not think I am weak; I look to improve and get more knowledge from senior, experienced coworkers and a great mentor. I will participate in a collaborative culture that creates exciting fresh solutions for the built environment that help clients and internal team members deliver the product vision with the highest outcome. As a highly dependable and diligent professional with a powerful sense of organization and an enthusiastic technical learner, I will enjoy entering into new technologies and quickly gaining the required skills. I genuinely look to excelling and pushing myself.
 
 <div style="text-align: right;">
-    <a href="#top">
+    <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
@@ -113,7 +113,7 @@ Code reviews catch errors when they’re cheap to fix, strengthen the team’s a
 </div>
 
 <div style="text-align: right;">
-    <a href="#top">
+    <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
@@ -145,7 +145,7 @@ I follow mobile development principles and best practices using user-centered de
 </div>
 
 <div style="text-align: right;">
-    <a href="#top">
+    <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
@@ -176,7 +176,7 @@ I developed an organized structure of a block of codes that can be separated int
 </div>
 
 <div style="text-align: right;">
-    <a href="#top">
+    <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
@@ -207,7 +207,7 @@ The process of setup and running the web application was challenging. However, I
 </div>
 
 <div style="text-align: right;">
-    <a href="#top">
+    <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
