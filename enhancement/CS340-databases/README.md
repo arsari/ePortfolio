@@ -29,7 +29,7 @@ This web application demonstrates our competencies to apply database systems con
 
 ## Reflection
 
-CS340 Client/Server Development course artifact was selected for the databases category. In this artifact, I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in computer science by designing and developing a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns.
+In this artifact, I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in computer science by designing and developing a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns.
 
 I demonstrated my ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals through a programmatic data structure, where the stored variable values can be used efficiently in different functions and callbacks through the web application. With this designed approach, I evaluated computing solutions that solve a problem using algorithmic principles and computer science practices and standards appropriate to the web application while managing the trade-offs involved in design choices.
 
