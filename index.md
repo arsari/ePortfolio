@@ -19,7 +19,7 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
 &nbsp;[Reviews](#reviews "ePortfolio Reviews")
 
-<img id="self-assessment" src="img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
+<img id="self-assessment" src="assets/img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
 I started in the Computer Science program in January of 2018, studying for as long as five years. I plan to join the program to improve my background in the programming and development of applications and web services. This effort was because of my passion for working with computers and technology, performing web development, and have led some IT projects and implementing IT infrastructures during my years of practicing Architecture.
 
@@ -27,7 +27,7 @@ While in the Computer Science Program, I have learned and improved an innumerabl
 
 <div style="text-align: center;">
     <a href="https://github.com/arsari/OpenGL-ZigZag" target="_blank">
-		<img src="img/CS330-Screenshot.png" width="720px" title="OpenGL ZigZag Chair Screenshot" />
+		<img src="assets/img/CS330-Screenshot.png" width="720px" title="OpenGL ZigZag Chair Screenshot" />
 	</a>
     <p><em>Figure 1 - OpenGL ZigZag Chair - CS330 Computational Graphics and Visualization</em></p>
 </div>
@@ -70,7 +70,7 @@ Each of the courses throughout the Computer Science program has impacted and hel
 CS250 Software Development Lifecycle allows me to understand the Software Development Lifecycle and how communication with our team members and clients is essential. IT145 Foundation in Application Development and CS260 Data Structures and Algorithms was a great lesson on algorithms and data structure. Within these courses, I showcased my design approach and evaluation of computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. CS310 Collaboration and Team Project showed me the basics of collaboration and explained how working together is necessary for large projects.
 
 <div style="text-align: center;">
-    <img src="img/CS350-Task-Scheduler-Diagram.png" width="100%" title="Task Scheduler Diagram - Thermostat Lab Guide" />
+    <img src="assets/img/CS350-Task-Scheduler-Diagram.png" width="100%" title="Task Scheduler Diagram - Thermostat Lab Guide" />
     <p><em>Figure 2 - Thermostat Lab Guide - CS350 Emerging Systems Architecture and Technologies</em></p>
 </div>
 
@@ -102,14 +102,14 @@ I look forward to tasks where I can learn and grow. I am driven to complete work
 
 <br/>
 
-<img id="codereview" src="img/codereview.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
+<img id="codereview" src="assets/img/codereview.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
 
 As a software engineer, I know that code reviews are critical aspects of software development. Code reviews ensure quality assurance for our project's code and often identify critical bugs early on in its life cycle. However, the typical code review can be tedious with too many meetings and meetings that waste time. We can think that code reviews add an unnecessary bureaucracy to our development life cycle or believe we are too small to warrant the effort. In both instances, we are mistaken.
 
 Code review is a systematic examination of the computer source code, sometimes known as peer review. I intend to find and fix mistakes overlooked in the initial development phase, improving the overall quality of the software and my developers' skills. In the professional world of programming, code reviews are a staple of quality assurance. A code review can be accomplished in various ways and with any requirements, but it is a straightforward concept stripped down to its bare essence. It is necessary for anyone interested in software engineering best practices.
 
 <div style="text-align: center;">
-    <img src="img/IT145-JavaCode.png" width="720px" title="Zoo Monitor System Program Java Code Screenshot" />
+    <img src="assets/img/IT145-JavaCode.png" width="720px" title="Zoo Monitor System Program Java Code Screenshot" />
     <p><em>Figure 3 - Zoo Monitoring System Program Java Code Screenshot</em></p>
 </div>
 
@@ -129,15 +129,15 @@ Code reviews catch errors when they’re cheap to fix, strengthen the team’s a
 
 <br/>
 
-<img id="softwaredesign" src="img/softwaredesign.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
+<img id="softwaredesign" src="assets/img/softwaredesign.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 As showcased in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the software design and engineering category is the **mobile application Inventory App**. The app's goal is to track an inventory of items using android mobile devices. The software was planned, designed, and develop as part of the CS360 Mobile Architecture and Programming computer science course. The application is developed in JAVA programming language with integration to the relational database SQLite. The development and programming tool used is Android Studio IDE. The testing and running of the app are through a Nexus device emulator inside Android Studio.
 
 This artifact involved an entire software design and engineering process. It consists of design considerations of user experience and user interaction with different screens and actions that the application includes. Ensure an intuitive use of the application and its features through industry-standard icons and symbols. The engineering of practices of validate input data, architect and design for security mindset, and default deny. Evolve design and engineering considerations of relationship and functionality in their algorithms and data structure between the different classes and methods, and database in their layouts and source code. Evolve using a relational database to store the data created, read, updated, and deleted by users through the operation and use of the application.
 
 <div style="text-align: center;">
-    <img src="img/ItemsActivity.png" width="300px" title="Items Activity Screenshot" />&nbsp;&nbsp;&nbsp;
-    <img src="img/EditItem_AlertDialog.png" width="300px" title="Edit Item Alert Dialog Screenshot" />
+    <img src="assets/img/ItemsActivity.png" width="300px" title="Items Activity Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="assets/img/EditItem_AlertDialog.png" width="300px" title="Edit Item Alert Dialog Screenshot" />
     <p><em>Figure 4 - Items Activity and Edit Alert Dialog Screenshot</em></p>
 </div>
 
@@ -161,14 +161,14 @@ I follow mobile development principles and best practices using user-centered de
 
 <br/>
 
-<img id="algorithms" src="img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
+<img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
 
 As presented in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the algorithms and data structure category is the **Zoo Monitoring System Program**. The program aims to develop an authentication system that manages authentication and authorization for zookeeper users and administrators. The program was planned, designed, and developed as part of the IT145 Foundation in Application Development computer science course. The program is produced in the JAVA programming language as a standalone application running in the computer terminal. The initial development and programming tool used was Apache NetBeans IDE; however,  I worked on the enhancements using a text editor. The testing and running of the app are through the computer terminal.
 
 I selected this artifact because it involved understanding a program algorithm composed of two central systems, an authentication/authorization system, with the enhancement of modules for a monitoring system. Once the users enter the program, they only should see data related to their role. The artifact consists of design considerations to authenticate and authorize a user into the monitor system based on user credentials and the accountability of the user interaction with different modules screen and actions according to their role in the monitor system.
 
 <div style="text-align: center;">
-    <img src="img/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
+    <img src="assets/mg/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
     <p><em>Figure 5 - Zoo Monitoring System User Management Dashboard Screenshot</em></p>
 </div>
 
@@ -192,14 +192,14 @@ I developed an organized structure of a block of codes that can be separated int
 
 <br/>
 
-<img id="databases" src="img/databases.png" alt="Databases" title="Databases" />
+<img id="databases" src="assets/img/databases.png" alt="Databases" title="Databases" />
 
 As described in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the databases category is the **Salvare Search for Rescue Web App**. The web application aims to develop a web interface that works with an existing database from animal shelters to identify and categorize available dogs to train for different rescues. The web app was planned, designed, and developed for the CS340 Client/Server Development computer science course. The application is developed in Python with the Dash framework and the non-relational database MongoDB. The integration of Python and MongoDB is through the python driver PyMongo. The application can run in Jupyter Notebook as a test tool and the computer terminal with an internet browser. The application's functionality involves a CSV data file of existing dogs in shelters to import into MongoDB, the import of dependencies such as Python PyMongo driver, Python libraries, Dash framework, and a Python source code and CRUD module to manipulate the data imported into MongoDB.
 
 This artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns. The model's job is to manage the data, MongoDB, and Python data structures. The view's job is to decide what the user sees and how on their screen, Dash framework. The controller's responsibility is to pull, modify, and provide data to the user, the PyMongo driver. Each record in the MongoDB database is a document described in BSON, a binary representation of the data retrieved by the web app in a JSON format. When the main app file is executed in the computer terminal, the user opens an internet browser new tab pointing to the corresponding app address. The browser starts loading and generates the client-facing web application dashboard like the following screen:
 
 <div style="text-align: center;">
-    <img src="img/CS340-Image.jpg" width="800px" title="Web App Client/Database Screenshot" />
+    <img src="assets/img/CS340-Image.jpg" width="800px" title="Web App Client/Database Screenshot" />
     <p><em>Figure 6 - Salvare Search Web App Client/Database Dashboard Screenshot</em></p>
 </div>
 
@@ -224,10 +224,10 @@ The process of setup and running the web application was challenging. However, I
 ## Reviews
 
 <div id="reviews" class="review-container">
-	<a href="mailto:b.goggin@snhu.edu"><img src="img/brookegoggin.jpg" alt="Brooke Goggin" style="width: 90px;" /></a>
+	<a href="mailto:b.goggin@snhu.edu"><img src="assets/img/brookegoggin.jpg" alt="Brooke Goggin" style="width: 90px;" /></a>
 	<p><span class="name">Brooke Goggin, M.S., M.S., M.S., Ed.D(ABD)</span><span class="title">SNHU Computer Science Adjunct Faculty</span></p>
-	<em>Being able to present your work in a cohesive manner is a skill that you will continue to refine in your career. The Zoo Monitoring with security and efficiency enhancements and interface as well as your extensive narratives is great work. This is a sound demonstration of making code  more concise and therefore with this change a bit faster. Wonderful explanation of what you did with the application to integrate Python with the Dash framework. Code is clean and well commented! You made it. **Congratulations and you should be proud.** The hard skills and soft skills table is great. Very well done portfolio with clear content of your depth of understanding!</em>
-<div>
+	<em>Being able to present your work in a cohesive manner is a skill that you will continue to refine in your career. The Zoo Monitoring with security and efficiency enhancements and interface as well as your extensive narratives is great work. This is a sound demonstration of making code  more concise and therefore with this change a bit faster. Wonderful explanation of what you did with the application to integrate Python with the Dash framework. Code is clean and well commented! You made it. Congratulations and you should be proud. The hard skills and soft skills table is great. Very well done portfolio with clear content of your depth of understanding!</em>
+</div>
 
 
 <div style="text-align: right;">
