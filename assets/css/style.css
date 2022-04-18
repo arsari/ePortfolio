@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-architect';
 
 /* Style the container with a rounded border, grey background and some padding and margin */
 .review-container {
