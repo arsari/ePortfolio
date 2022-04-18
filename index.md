@@ -3,7 +3,7 @@
 
 ## Welcome
 
-This ePortfolio integrates the knowledge and skills I gained and developed throughout the years of studying a Computer Science program at SNHU. It represent my growth in the program and gained honor rolls from high-quality outcomes. The ePortfolio was designed and developed with a professional-quality written and a visual communication demonstrative of my capacities and abilities in a coherent, technically sound, and appropriately adapted to an specific technical audience and context.
+This ePortfolio integrates the knowledge and skills I gained and developed throughout the years of studying a Computer Science program at Southern New Hampshire University (SNHU). It represent my growth in the program and gained honor rolls from high-quality outcomes. The ePortfolio was designed and developed with a professional-quality written and a visual communication demonstrative of my capacities and abilities in a coherent, technically sound, and appropriately adapted to an specific technical audience and context.
 
 ### <u>Table of Content</u>
 
@@ -12,10 +12,12 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Preparing For The Future_](#preparing-for-the-future "Preparing for the Future")<br/>
 &nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
 &nbsp;[Software Design and Engineering](#softwaredesign "Software Design and Engineering")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Software Design and Engineering_](#artifact-software-design-and-engineering "Artifact Software Design and Engineering")<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
-&nbsp;[Databases](#databases "Databases")
-
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Algorithms and Data Structure_](#artifact-algorithms-and-data-structures "Artifact Algorithms and Data Structure")<br/>
+&nbsp;[Databases](#databases "Databases")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
+&nbsp;[Reviews](#reviews "ePortfolio Reviews")
 
 <img id="self-assessment" src="img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
@@ -24,7 +26,9 @@ I started in the Computer Science program in January of 2018, studying for as lo
 While in the Computer Science Program, I have learned and improved an innumerable number of abilities, skills, and knowledge. I have improved my attention to detail and security mindset as crucial skills to perform as a software engineer and developer. Being organized and cautious in my code development and doing it in simple blocks and testing as part of my workflow help me improve these skills and abilities. Testing is crucial to ensuring a program works and is free of weaknesses and vulnerabilities and becomes more complicated as a project grows in complexity. Acknowledging and adopting a tester mindset and a security mindset are well-required skills and abilities that improve continuously.
 
 <div style="text-align: center;">
-    <img src="img/CS330-Screenshot.png" width="720px" title="OpenGL ZigZag Chair Screenshot" />
+    <a href="https://github.com/arsari/OpenGL-ZigZag" target="_blank">
+		<img src="img/CS330-Screenshot.png" width="720px" title="OpenGL ZigZag Chair Screenshot" />
+	</a>
     <p><em>Figure 1 - OpenGL ZigZag Chair - CS330 Computational Graphics and Visualization</em></p>
 </div>
 
@@ -56,14 +60,17 @@ Through the program, I increased my capacity to learn new skills in a short time
 
 ### _Portfolio Considerations_
 
-> <em style="font-size: 20px;">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler</em>
+<blockquote style="font-size: 20px;">
+  <em>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</em>
+  <p style="text-align: right;">by Martin Fowler</p>
+</blockquote>
 
 Each of the courses throughout the Computer Science program has impacted and helped to acquire the knowledge, skills, and abilities necessary to position me in a job in the disciplines attached to Computer Science. While my learning was not limited to these classes, I felt that these were of more impact to me and expanded my roots into my initial plan of entering the Computer Science Program. From these courses, I learned and improved things I was not aware of being knowledgeable about or having the ability to grow in them. Because of that, I incorporate artifacts where the skills and skills learned in these courses, are demonstrated, showcased, and illustrated.
 
 CS250 Software Development Lifecycle allows me to understand the Software Development Lifecycle and how communication with our team members and clients is essential. IT145 Foundation in Application Development and CS260 Data Structures and Algorithms was a great lesson on algorithms and data structure. Within these courses, I showcased my design approach and evaluation of computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. CS310 Collaboration and Team Project showed me the basics of collaboration and explained how working together is necessary for large projects.
 
 <div style="text-align: center;">
-    <img src="img/CS350-Task-Scheduler-Diagram.png" width="100%" heigth="480px" title="Task Scheduler Diagram - Thermostat Lab Guide" />
+    <img src="img/CS350-Task-Scheduler-Diagram.png" width="100%" title="Task Scheduler Diagram - Thermostat Lab Guide" />
     <p><em>Figure 2 - Thermostat Lab Guide - CS350 Emerging Systems Architecture and Technologies</em></p>
 </div>
 
@@ -81,7 +88,9 @@ The courses artifacts chosen for the code review and the key categories of softw
 
 The Computer Science program has helped me grow as a professional, preparing me to build a fulfilling and productive career and make a solid contribution to a computer science practice. Like a mountain climber approaching the summit, it is time to draw on my sense of motivation and refocus my energies. I have developed an ePortfolio that helps me take my place among computer science professionals; this is a significant achievement I am proud of.
 
-I contend that my ePortfolio demonstrated my abilities to use well-founded and innovative techniques. I implemented computer solutions that deliver value and accomplish industry-specific goals exemplified through the development of functionalities that involves CSV data files being imported into MongoDB, the import of dependencies such as Python PyMongo driver, Python libraries, Dash framework, and a Python source code, and CRUD module to manipulate the data imported into MongoDB. I designed and evaluated computing solutions that solve given problems using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices through the engineering considerations of relationship and functionality between the different classes and methods by using arguments, parameters, and variables in scope in JAVA programming. All the enhanced artists demonstrate my emphasis on applying a security mindset during the development process to anticipate adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+I contend that my ePortfolio demonstrated my abilities to use well-founded and innovative techniques. I implemented computer solutions that deliver value and accomplish industry-specific goals exemplified through the development of functionalities that involves CSV data files being imported into MongoDB, the import of dependencies such as Python PyMongo driver, Python libraries, Dash framework, and a Python source code, and CRUD module to manipulate the data imported into MongoDB.
+
+I designed and evaluated computing solutions that solve given problems using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices through the engineering considerations of relationship and functionality between the different classes and methods by using arguments, parameters, and variables in scope in JAVA programming. All the enhanced artists demonstrate my emphasis on applying a security mindset during the development process to anticipate adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
 I look forward to tasks where I can learn and grow. I am driven to complete work, no matter how difficult. If help is needed, I do not think I am weak; I look to improve and get more knowledge from senior, experienced coworkers and a great mentor. I will participate in a collaborative culture that creates exciting fresh solutions for the built environment that help clients and internal team members deliver the product vision with the highest outcome. As a highly dependable and diligent professional with a powerful sense of organization and an enthusiastic technical learner, I will enjoy entering into new technologies and quickly gaining the required skills. I genuinely look to excelling and pushing myself.
 
@@ -136,7 +145,7 @@ I designed and evaluated computing solutions that solve a given problem using al
 
 I follow mobile development principles and best practices using user-centered design principles and industry standards through application development with this enhancement. The application of user-centered design principles demonstrates my ability to use well-founded and innovative techniques, skills, and tools in computing to implement computer solutions that deliver value and accomplish industry-specific goals. I implemented and practiced quality assurance techniques effective in identifying and eliminating vulnerabilities.
 
-## _Artifact_
+### _Artifact Software Design and Engineering_
 
 <div style="text-align: center;">
 	<a href="CS360" title="Artifact: Software Design and Engineering">
@@ -167,7 +176,7 @@ I designed software that considers and interprets user needs and implement them 
 
 I developed an organized structure of a block of codes that can be separated into a primary class and four classes (modules). One of the four classes is a menu (Display Class) repetitive in the three key system modules, RoleModule, MonitorModule, and User Module. I introduce GUI actions into the program base to clear the shell screen, display a header and banner, and use two third-party classes, one for ANSI colors and the other for wrap lines. These actions align with user-centered design principles to demonstrate our ability to use well-founded and innovative techniques, skills, and tools in computing to implement maintainable computer solutions that deliver value and accomplish industry-specific goals.
 
-## _Artifact_
+### _Artifact Algorithms and Data Structures_
 
 <div style="text-align: center;">
 	<a href="IT145" title="Artifact: Algorithms and Data Structure">
@@ -198,13 +207,28 @@ The artifact enhancements focused on recreating the web application in a Windows
 
 The process of setup and running the web application was challenging. However, I demonstrated my abilities to use well-founded and innovative techniques, skills, and tools in computing practices through the operation of the setup of Python and MongoDB before starting to follow the guidance in the web application documentation. Going through Python and MongoDB's setup procedures and updating the web app source code functionality because of changes in the PyMongo driver version and an upgraded MongoDB platform showcase my implementation of computer solutions that deliver value and accomplish industry-specific goals.  
 
-## _Artifact_
+### _Artifact Databases_
 
 <div style="text-align: center;">
 	<a href="CS340" title="Artifact: Databases">
 		<img src="https://img.shields.io/badge/Artifact-Databases-blueviolet.svg?style=for-the-badge&logo=microsoftaccess" alt="Artifact: Databases" />
 	</a>
 </div>
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
+## Reviews
+
+<div id="reviews" class="review-container">
+	<a href="mailto:b.goggin@snhu.edu"><img src="img/brookegoggin.jpg" alt="Brooke Goggin" style="width: 90px;" /></a>
+	<p><span class="name">Brooke Goggin, M.S., M.S., M.S., Ed.D(ABD)</span><span class="title">SNHU Computer Science Adjunct Faculty</span></p>
+	<em>Being able to present your work in a cohesive manner is a skill that you will continue to refine in your career. The Zoo Monitoring with security and efficiency enhancements and interface as well as your extensive narratives is great work. This is a sound demonstration of making code  more concise and therefore with this change a bit faster. Wonderful explanation of what you did with the application to integrate Python with the Dash framework. Code is clean and well commented! You made it. **Congratulations and you should be proud.** The hard skills and soft skills table is great. Very well done portfolio with clear content of your depth of understanding!</em>
+<div>
+
 
 <div style="text-align: right;">
     <a href="#">
