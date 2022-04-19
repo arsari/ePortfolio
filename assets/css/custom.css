@@ -18,7 +18,9 @@
 .review-container img {
   float: left;
   margin-right: 20px;
+  border: 2px solid #ccc;
   border-radius: 50%;
+  width: 100px;
 }
 
 /* Increase the font-size of a span element */
@@ -28,7 +30,7 @@
 }
 
 /* Add media queries for responsiveness. This will center both the text and the image inside the container */
-@media (max-width: 500px) {
+@media (max-width: 639px) {
   .review-container {
     text-align: center;
   }
@@ -39,7 +41,7 @@
     display: block;
   }
   
-  .review-container span {
-    display: block;
+  .review-container em {
+    text-align: left;
   }
 }
