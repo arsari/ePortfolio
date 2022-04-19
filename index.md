@@ -225,7 +225,7 @@ The process of setup and running the web application was challenging. However, I
 
 <div id="reviews" class="review-container">
 	<a href="mailto:b.goggin@snhu.edu"><img src="assets/img/brookegoggin.jpg" alt="Brooke Goggin" style="width: 90px;" /></a>
-	<p><span class="name">Brooke Goggin, M.S., M.S., M.S., Ed.D(ABD)</span><span class="title">SNHU Computer Science Adjunct Faculty</span></p>
+	<p><span>Brooke Goggin, M.S., M.S., M.S., Ed.D(ABD)<br/>SNHU Computer Science Adjunct Faculty</span></p>
 	<em>Being able to present your work in a cohesive manner is a skill that you will continue to refine in your career. The Zoo Monitoring with security and efficiency enhancements and interface as well as your extensive narratives is great work. This is a sound demonstration of making code  more concise and therefore with this change a bit faster. Wonderful explanation of what you did with the application to integrate Python with the Dash framework. Code is clean and well commented! You made it. Congratulations and you should be proud. The hard skills and soft skills table is great. Very well done portfolio with clear content of your depth of understanding!</em>
 </div>
 
