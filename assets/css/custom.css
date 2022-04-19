@@ -35,7 +35,7 @@
 }
 
 /* Add media queries for responsiveness. This will center both the text and the image inside the container */
-@media (max-width: 768px) {
+@media (max-width: 960px) {
   .review-container {
     text-align: center;
   }
