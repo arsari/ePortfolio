@@ -23,6 +23,11 @@
   width: 100px;
 }
 
+/* Center p element with img element */
+.review-container p {
+  margin-top: 20px;
+}
+
 /* Increase the font-size of a span element */
 .review-container span {
   font-size: 20px;
@@ -30,7 +35,7 @@
 }
 
 /* Add media queries for responsiveness. This will center both the text and the image inside the container */
-@media (max-width: 639px) {
+@media (max-width: 640px) {
   .review-container {
     text-align: center;
   }

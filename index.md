@@ -168,7 +168,7 @@ As presented in the [artifact code review](CodeReview "Refinement Plan and Code 
 I selected this artifact because it involved understanding a program algorithm composed of two central systems, an authentication/authorization system, with the enhancement of modules for a monitoring system. Once the users enter the program, they only should see data related to their role. The artifact consists of design considerations to authenticate and authorize a user into the monitor system based on user credentials and the accountability of the user interaction with different modules screen and actions according to their role in the monitor system.
 
 <div style="text-align: center;">
-    <img src="assets/mg/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
+    <img src="assets/img/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
     <p><em>Figure 5 - Zoo Monitoring System User Management Dashboard Screenshot</em></p>
 </div>
 
