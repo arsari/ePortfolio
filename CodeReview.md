@@ -70,3 +70,9 @@ The planned enhancement is to recreate the web application in a Windows environm
 Artifact original files repository at [CS340 Client/Server Development](https://github.com/arsari/ePortfolio/tree/main/original/CS340 "Salvare Search for Rescue Web App  Original Repository")
 
 ---
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
