@@ -11,6 +11,7 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Portfolio Considerations_](#portfolio-considerations "Portfolio Considerations")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Preparing For The Future_](#preparing-for-the-future "Preparing for the Future")<br/>
 &nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link "Artifacts Code Review Videos Link")<br/>
 &nbsp;[Software Design and Engineering](#softwaredesign "Software Design and Engineering")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Software Design and Engineering_](#artifact-software-design-and-engineering "Artifact Software Design and Engineering")<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
@@ -114,6 +115,8 @@ Code review is a systematic examination of the computer source code, sometimes k
 </div>
 
 Code reviews catch errors when they’re cheap to fix, strengthen the team’s abilities, and add a certain amount of fault tolerance to the organization or individuals to better recover from disruptive changes. It results in better code, which is more easily maintained. Exercising a code review of the selected artifacts for software design and engineering, algorithms and data structure, and databases helped me to capacitate and employ strategies that help in the building of collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science based on the critical elements of existing functionality code analysis, and enhancements.
+
+### _Code Review Videos Link_
 
 <div style="text-align: center;">
 	<a href="CodeReview" title="Artifacts Code Review">
@@ -223,11 +226,11 @@ The process of setup and running the web application was challenging. However, I
 
 ## Reviews
 
-<div id="reviews" class="review-container">
+<blockquote id="reviews" class="review-container" cite="https://learn.snhu.edu/d2l/lms/grades/my_grades/main.d2l?ou=1014915">
 	<a href="mailto:b.goggin@snhu.edu"><img src="assets/img/brookegoggin.jpg" alt="Brooke Goggin" style="width: 90px;" /></a>
 	<p><span>Brooke Goggin, M.S., M.S., M.S., Ed.D(ABD)<br/>SNHU Computer Science Adjunct Faculty</span></p>
-	<em>Being able to present your work in a cohesive manner is a skill that you will continue to refine in your career. The Zoo Monitoring with security and efficiency enhancements and interface as well as your extensive narratives is great work. This is a sound demonstration of making code  more concise and therefore with this change a bit faster. Wonderful explanation of what you did with the application to integrate Python with the Dash framework. Code is clean and well commented! You made it. Congratulations and you should be proud. The hard skills and soft skills table is great. Very well done portfolio with clear content of your depth of understanding!</em>
-</div>
+	<em>"Being able to present your work in a cohesive manner is a skill that you will continue to refine in your career. The Zoo Monitoring with security and efficiency enhancements and interface as well as your extensive narratives is great work. This is a sound demonstration of making code  more concise and therefore with this change a bit faster. Wonderful explanation of what you did with the application to integrate Python with the Dash framework. Code is clean and well commented! You made it. Congratulations and you should be proud. The hard skills and soft skills table is great. Very well done portfolio with clear content of your depth of understanding!"</em>
+</blockquote>
 
 
 <div style="text-align: right;">
