@@ -34,7 +34,7 @@ Computer scientists use technology to solve problems by writing coding statement
 
 ---
 
-[![SNHU Repo](https://img.shields.io/badge/repo-SNHU-blueviolet.svg?style=for-the-badge&logo=github)](https://github.com/arsari/arsari-snhu "Back to SNHU Repo") [![ePortfolio](https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant)](https://arsari.github.io/ePortfolio "Home ePortfolio") [![License badge](https://img.shields.io/badge/license-MIT-red.svg?style=for-the-badge)](LICENSE)
+[![SNHU CS499 Repository](https://img.shields.io/badge/repo-CS499-blueviolet.svg?style=for-the-badge&logo=github)](https://github.com/arsari/ePortfolio "Back to CS499 Repo") [![ePortfolio Home](https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant)](https://arsari.github.io/ePortfolio "Back to ePortfolio Home") [![License badge](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License")
 
 ---
 
