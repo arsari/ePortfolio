@@ -1,18 +1,21 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: " en-US" }}">
+
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-	<link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+      media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}"
+      media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 
-{% seo %}
+    {% seo %}
 
     {% include head-custom.html %}
   </head>
@@ -25,10 +28,10 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+        <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
         {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+        <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
       </div>
     </header>
@@ -40,50 +43,69 @@
         </section>
 
         <aside id="sidebar">
-			{% if site.show_downloads %}
-				<a href="{{ site.github.zip_url }}" class="button">
-					<small>Download</small>
-						.zip file
-				</a>
-				<a href="{{ site.github.tar_url }}" class="button">
-					<small>Download</small>
-					.tar.gz file
-				</a>
-			{% endif %}
+          {% if site.show_downloads %}
+          <a href="{{ site.github.zip_url }}" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="{{ site.github.tar_url }}" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+          {% endif %}
 
-			<nav id="sidebar-menu" style="margin: 30px 0; font-family: 'Architects Daughter';">
-				<h2>Navigation</h2>
-				<p><a href="https://arsari.github.io/ePortfolio" title="ePortfolio Home"><img src="https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant" alt="Arturo Santiago-Rivera ePortfolio Home" /></a></p>
-				<!--
+          <nav id="sidebar-menu" style="margin: 30px 0; font-family: 'Architects Daughter';">
+            <h2>Navigation</h2>
+            <p><a href="https://arsari.github.io/ePortfolio" title="ePortfolio Home"><img
+                  src="https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant"
+                  alt="Arturo Santiago-Rivera ePortfolio Home" /></a></p>
+            <!--
 				<p><a href="https://arsari.github.io/ePortfolio/CodeReview" title="Artifacts Code Review"><img src="https://img.shields.io/badge/Artifacts-Code_Review-yellowgreen.svg?style=for-the-badge&logo=codereview" alt="Artifacts Code Review" /></a></p>
 				<p><a href="https://arsari.github.io/ePortfolio/CS360" title="Software Design and Engineering Artifact"><img src="https://img.shields.io/badge/Artifact-Software_Design_and_Engineering-yellow.svg?style=for-the-badge&logo=paloaltosoftware" alt="Software Design and Engineering Artifact" /></a></p>
 				<p><a href="https://arsari.github.io/ePortfolio/IT145" title="Algorithms and Data Structure Artifact"><img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Algorithms and Data Structure Artifact" /></a></p>
 				<p><a href="https://arsari.github.io/ePortfolio/CS340" title="Databases Artifact"><img src="https://img.shields.io/badge/Artifact-Databases-blueviolet.svg?style=for-the-badge&logo=microsoftaccess" alt="Databases Artifact" /></a></p>
 				-->
-				<p><a href="https://github.com/arsari/ePortfolio/blob/main/LICENSE" title="GitHub MIT License"><img src="https://img.shields.io/github/license/arsari/ePortfolio?style=for-the-badge&amp;logo=github" alt="GitHub MIT License"></a></p>
-			</nav>
+            <p><a href="https://github.com/arsari/ePortfolio/blob/main/LICENSE" title="GitHub MIT License"><img
+                  src="https://img.shields.io/github/license/arsari/ePortfolio?style=for-the-badge&amp;logo=github"
+                  alt="GitHub MIT License"></a></p>
+          </nav>
 
-			<div id="honors-awards" style="margin: 30px 0; font-family: 'Architects Daughter';">
-				<h2>Merit Page</h2>
-				<p><a href="https://meritpages.com/arturosantiagorivera" target="_blank"><img src="./assets/img/Merit_Logo.jpg" title="My Merit Page" alt="Merit Page Logo" width="85" /></a></p>
-				<h2>Honors | Awards</h2>
-				<p>
-					<a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/73201371" target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Named to Honor Roll Term 21EW2" alt="Honor Roll Badge Logo" /></a>
-					<a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/77174906" target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Name to Honor Roll Term 22EW3" alt="Honor Roll Badge Logo" /></a>
-					<a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/82094445" target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Name to Honor Roll Term 22EW4" alt="Honor Roll Badge Logo" /></a>
-					<a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/85841137" target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Name to Honor Roll Term 22EW5" alt="Honor Roll Badge Logo" /></a>
-				</p>
-			</div>
+          <div id="honors-awards" style="margin: 30px 0; font-family: 'Architects Daughter';">
+            <h2>Merit Page</h2>
+            <p><a href="https://meritpages.com/arturosantiagorivera" target="_blank"><img
+                  src="./assets/img/Merit_Logo.jpg" title="My Merit Page" alt="Merit Page Logo" width="85" /></a></p>
+            <h2>Honors | Awards</h2>
+            <p>
+              <a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/73201371"
+                target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Named to Honor Roll Term 21EW2"
+                  alt="Honor Roll Badge Logo" /></a>
+              <a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/77174906"
+                target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Name to Honor Roll Term 22EW3"
+                  alt="Honor Roll Badge Logo" /></a>
+              <a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/82094445"
+                target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Name to Honor Roll Term 22EW4"
+                  alt="Honor Roll Badge Logo" /></a>
+              <a href="https://snhu.meritpages.com/stories/Arturo-Santiago-Rivera-Named-to-Honor-Roll/85841137"
+                target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Name to Honor Roll Term 22EW5"
+                  alt="Honor Roll Badge Logo" /></a>
+              <a href="https://snhu.meritpages.com/stories/SNHU-Announces-Honor-Roll-for-24EW3/128842900"
+                target="_blank"><img src="./assets/img/Honor_Roll_badge.png" title="Name to Honor Roll Term 24EW3"
+                  alt="Honor Roll Badge Logo" /></a>
+            </p>
 
-			{% if site.github.is_project_page %}
-				<p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-			{% endif %}
+          </div>
 
-			<p>Page generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
-			<p><em>&copy 2018-2022 Made with &#10084; &nbsp;by Arturo Santiago-Rivera</em></p>
+          {% if site.github.is_project_page %}
+          <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is
+            maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+          {% endif %}
+
+          <p>Page generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
+          <p><em>&copy 2018-2024 Made with &#10084; &nbsp;by Arturo Santiago-Rivera</em></p>
         </aside>
       </div>
     </div>
 
   </body>
+
 </html>
