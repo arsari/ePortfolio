@@ -78,10 +78,14 @@ This paper is a narrative that accompanies the artifact enhancements for algorit
 
 This paper is a narrative that accompanies the artifact enhancements for databases. It explains why the selected artifact was included in this category of our ePortfolio and reflects on the process used to create the artifact. The narrative focuses on the learning that happened through the artifact's creation. The artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns.
 
+## SNHU Commencement
+
+<video width="600" height="100%" controls src="https://github.com/user-attachments/assets/a4f4f2ee-c140-470b-bcf3-8297decf9d7b"></video>
+
 ---
 
 [![SNHU Private Repository](https://img.shields.io/badge/repo-SNHU-blueviolet.svg?style=for-the-badge&logo=github)](https://github.com/arsari/arsari-snhu "Back to SNHU Private Repo") [![ePortfolio Home](https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant)](https://arsari.github.io/ePortfolio "Back to ePortfolio Home") [![License badge](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License")
 
 ---
 
-<small>_[Updated November, 2024 by ASR]_</small>
+<small>_[Updated December, 2024 by ASR]_</small>
