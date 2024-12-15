@@ -6,7 +6,7 @@
 
 ---
 
-[![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-orange.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/language-Markdown_\|_HTML-cyan.svg)](https://www.markdownguide.org/) [![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-purple.svg)](https://desktop.github.com/) [![Generic badge](https://img.shields.io/badge/editor-Markdown_Monster-pink.svg)](https://markdownmonster.west-wind.com/) [![Generic badge](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-orange.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/language-Markdown_|_HTML-cyan.svg)](https://www.markdownguide.org/) [![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-purple.svg)](https://desktop.github.com/) [![Generic badge](https://img.shields.io/badge/editor-Markdown_Monster-pink.svg)](https://markdownmonster.west-wind.com/) [![Generic badge](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## Overview
 
@@ -43,9 +43,9 @@ This paper is a course submission reflection of my journey through the CS499 Com
 
 This paper is an initial plan describing how I meet the ePortfolio requirements. While the plan submitted was not final, it is a solid starting point with clear ideas for review. This assignment may be seen as a way of beginning a conversation that results in a challenging but practical plan to produce an ePortfolio that showcases my skills across the key fields of computer science:
 
-* Software engineering and design
-* Algorithms and data structure
-* Databases
+- Software engineering and design
+- Algorithms and data structure
+- Databases
 
 ### Code Review
 
@@ -55,9 +55,9 @@ This paper is an initial plan describing how I meet the ePortfolio requirements.
 
 I perform a code review in a video for each artifact selected in my initial plan. In this code review, I analyze existing code for weaknesses, limitations, and vulnerabilities and explain my plan for enhancements. These code reviews are a walk-through of existing code and planned enhancements, and it demonstrates the following critical elements for each category:
 
-* Existing functionality: A detailed walk-through of the existing code focused on the features and function of the current code.
-* Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
-* Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
+- Existing functionality: A detailed walk-through of the existing code focused on the features and function of the current code.
+- Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
+- Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
 
 ### Software Design and Engineering Enhancement
 
@@ -76,7 +76,7 @@ This paper is a narrative that accompanies the artifact enhancements for algorit
 [Databases Narrative](CS499/CS499-M5-2_Paper.pdf "Databases - Salvare Search for Rescue Web App")</br>
 [Web Application Demo](https://youtu.be/r9EonyBs9I8?rel=0 "Salvare Search for Rescue Web App - Demo")
 
-This paper is a narrative that accompanies the artifact enhancements for databases. It explains why the selected artifact was included in this category of our ePortfolio and reflects on the process used to create the artifact. The narrative focuses on the learning that happened through the artifact's creation. The artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns. 
+This paper is a narrative that accompanies the artifact enhancements for databases. It explains why the selected artifact was included in this category of our ePortfolio and reflects on the process used to create the artifact. The narrative focuses on the learning that happened through the artifact's creation. The artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns.
 
 ---
 
@@ -84,5 +84,4 @@ This paper is a narrative that accompanies the artifact enhancements for databas
 
 ---
 
-<small>_[Updated April, 2022 by ASR]_</small>
-
+<small>_[Updated November, 2024 by ASR]_</small>
